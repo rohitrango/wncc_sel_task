@@ -1,6 +1,15 @@
 """
 This is the programming task for WnCC Conveners.
-Program assumes the format of Question followed by any no of options, followed by a space and then an answer, followed by the next question .
+Program assumes the format - 
+<Question>
+<Option 1>
+<Option 2>
+
+<Answer>
+
+....(Next question)
+
+IMPORTANT - Please don't put extra newlines after the last answer.
 Non-recursive solution is implemented. :P 
 Thanks for viewing (and contributing) to this code.
 """
