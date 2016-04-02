@@ -1,11 +1,5 @@
 Source - Mumbai 
 
-Destination : Rohitrango 
-Distance : Not Found 
-
-Destination : Gotham 
-Distance : No driving routes available 
-
 Destination : Powai 
 Distance : 14.9 km 
 
@@ -23,4 +17,10 @@ Distance : 1,337 km
 
 Destination : Calcutta 
 Distance : 1,956 km 
+
+Destination : Gotham 
+Distance : No driving routes available 
+
+Destination : Rohitrango 
+Distance : Not Found 
 
