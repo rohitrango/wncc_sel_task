@@ -1,8 +1,11 @@
 Bhandup
-Pune
-Chennai
-Gotham
-Rohitrango
-Calcutta
 Powai
+Chennai
 Bangalore
+Pune
+Bhubaneswar
+Cuttuck
+Puri
+Thane
+CST
+Sanpada

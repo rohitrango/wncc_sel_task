@@ -1,0 +1,46 @@
+Source - IIT Bombay 
+
+Destination : Powai 
+Distance by road : 2.9 km 
+Bird's eye distance : 1.599545 km
+
+Destination : Bhandup 
+Distance by road : 5.6 km 
+Bird's eye distance : 2.872735 km
+
+Destination : CST 
+Distance by road : 15.6 km 
+Bird's eye distance : 7.751638 km
+
+Destination : Thane 
+Distance by road : 16.1 km 
+Bird's eye distance : 11.840555 km
+
+Destination : Sanpada 
+Distance by road : 24.4 km 
+Bird's eye distance : 13.529992 km
+
+Destination : Pune 
+Distance by road : 155 km 
+Bird's eye distance : 120.672184 km
+
+Destination : Bangalore 
+Distance by road : 991 km 
+Bird's eye distance : 848.564952 km
+
+Destination : Chennai 
+Distance by road : 1,344 km 
+Bird's eye distance : 1034.764443 km
+
+Destination : Cuttuck 
+Distance by road : 1,655 km 
+Bird's eye distance : 1365.287630 km
+
+Destination : Bhubaneswar 
+Distance by road : 1,777 km 
+Bird's eye distance : 1358.040186 km
+
+Destination : Puri 
+Distance by road : 1,779 km 
+Bird's eye distance : 1356.753132 km
+
