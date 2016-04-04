@@ -11,15 +11,15 @@ from math import sin,cos,atan2,pi,sqrt
 
 def distance(self,other):																#was initially made as a class method	
 																						#but later gave pains, so made it an independent function		
-		if(other.lat==-1):																
-			return -1																	#if destination isn't found, return -1 
-		else:
-			delLng = (other.lng-self.lng)*pi/180.0
-			delLat = (other.lat-self.lat)*pi/180.0										#This is the Haversine formula that is used
-			val = sin(delLat/2)**2 + cos(self.lat*pi/180.0)*cos(other.lat*pi/180.0)*(sin(delLng/2)**2)	
-			temp = 2 * atan2(sqrt(val) , sqrt(1-val))		
-			dist = temp*6373
-			return dist
+	if(other.lat==-1):																
+		return -1																	#if destination isn't found, return -1 
+	else:
+		delLng = (other.lng-self.lng)*pi/180.0
+		delLat = (other.lat-self.lat)*pi/180.0										#This is the Haversine formula that is used
+		val = sin(delLat/2)**2 + cos(self.lat*pi/180.0)*cos(other.lat*pi/180.0)*(sin(delLng/2)**2)	
+		temp = 2 * atan2(sqrt(val) , sqrt(1-val))		
+		dist = temp*6373
+		return dist
 
 class Places:
 	def __init__(self,dest,distance,value,lat,lng):										#value is the numerical value
