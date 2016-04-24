@@ -1,11 +1,5 @@
-Bhandup
-Powai
-Chennai
 Bangalore
-Pune
-Bhubaneswar
-Cuttuck
-Puri
-Thane
-CST
-Sanpada
+Chennai
+Delhi
+Kolkata
+Mumbai

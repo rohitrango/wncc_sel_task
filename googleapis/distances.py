@@ -39,7 +39,7 @@ myfile.close()
 for i in range(len(mylocations)):
 	mylocations[i] = mylocations[i][:-1]												#to omit the \n in all the places
 
-source = "IIT Bombay"																	#source input 
+source = raw_input("Enter source.\n")																	#source input 
 print "Fetching data..."
 
 # Creating new strings for passing in the API and getting JSON data (replacing <space> by plus
